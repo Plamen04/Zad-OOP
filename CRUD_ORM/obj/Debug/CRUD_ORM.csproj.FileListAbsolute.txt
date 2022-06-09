@@ -1,0 +1,16 @@
+C:\Users\panov\source\repos\CRUD_ORM\CRUD_ORM\bin\Debug\CRUD_ORM.exe.config
+C:\Users\panov\source\repos\CRUD_ORM\CRUD_ORM\bin\Debug\CRUD_ORM.exe
+C:\Users\panov\source\repos\CRUD_ORM\CRUD_ORM\bin\Debug\CRUD_ORM.pdb
+C:\Users\panov\source\repos\CRUD_ORM\CRUD_ORM\bin\Debug\EntityFramework.dll
+C:\Users\panov\source\repos\CRUD_ORM\CRUD_ORM\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\panov\source\repos\CRUD_ORM\CRUD_ORM\bin\Debug\EntityFramework.xml
+C:\Users\panov\source\repos\CRUD_ORM\CRUD_ORM\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\panov\source\repos\CRUD_ORM\CRUD_ORM\obj\Debug\CRUD_ORM.csproj.AssemblyReference.cache
+C:\Users\panov\source\repos\CRUD_ORM\CRUD_ORM\obj\Debug\CRUD_ORM.Properties.Resources.resources
+C:\Users\panov\source\repos\CRUD_ORM\CRUD_ORM\obj\Debug\CRUD_ORM.csproj.GenerateResource.cache
+C:\Users\panov\source\repos\CRUD_ORM\CRUD_ORM\obj\Debug\CRUD_ORM.csproj.CoreCompileInputs.cache
+C:\Users\panov\source\repos\CRUD_ORM\CRUD_ORM\obj\Debug\CRUD_ORM.csproj.CopyComplete
+C:\Users\panov\source\repos\CRUD_ORM\CRUD_ORM\obj\Debug\CRUD_ORM.exe
+C:\Users\panov\source\repos\CRUD_ORM\CRUD_ORM\obj\Debug\CRUD_ORM.pdb
+C:\Users\panov\source\repos\CRUD_ORM\CRUD_ORM\obj\Debug\CRUD_ORM.Migrations.Initial.resources
+C:\Users\panov\source\repos\CRUD_ORM\CRUD_ORM\obj\Debug\CRUD_ORM.ProductForm.resources
